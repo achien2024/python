@@ -1,0 +1,1 @@
+This is my first project in python so my main focus with this is to get comfortable with using python and doing data analysis. The data is fiction and was given after I had compelted Google's coursera on data analytics and earning my certificate online. 
