@@ -1,4 +1,4 @@
 # python
 Data Science/Machine Learning projects coded in python in juypter notebook
 
-Data science and machine learning projects done in python 
+These are all the projects I have done in python related to data science and machine learning.
