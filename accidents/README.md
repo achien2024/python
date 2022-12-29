@@ -1,1 +1,3 @@
 In this project, accidents, I do statistical analysis on data from different industrial safety and health issues as an introduction to doing data analysis in python. The data was uploaded by "IHM STEFANINI" in 2017 which consists of accident records throughout different plants in three different countries. In this project, I explore different factors that contribute to the overall danger level and created a linear regression base off these factors to determine accident levels.
+
+The dataset can be found on KAGGLE here: [Industrial Safety and Health Analytics](https://www.kaggle.com/datasets/ihmstefanini/industrial-safety-and-health-analytics-database)
